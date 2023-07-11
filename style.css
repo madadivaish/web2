@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  background-color: #fff;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+}
+
+nav a:hover {
+  background-color: #ccc;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.0em;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
